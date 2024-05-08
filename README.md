@@ -7,8 +7,6 @@
   <a href="https://twitter.com/adolphetz" target="blank"><img src="https://img.shields.io/twitter/follow/adolphetz?logo=twitter&style=for-the-badge" alt="adolphetz" width="150" height="25" margin="10"/></a>
 </p>
 
-- 📫 How to reach me **iadolphe007@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--   twitter -->
