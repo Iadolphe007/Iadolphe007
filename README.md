@@ -83,7 +83,7 @@
   <!--   github -->
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="GitHub" hheight="30" width="50" margin="10"/> </a>
 <!--   linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" width="50"margin="10""/> </a>
+  <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" width="50"margin="10""/> </a> -->
   <!--   ubuntu -->
   <!-- <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ubuntu_logo_icon_147216.png" alt="ubuntu" height="40" width="50" margin="10""/> </a> -->
 <!--   vagrant -->
@@ -91,15 +91,15 @@
   <!--   vs code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VsCode" height="30" width="50" margin="10"/> </a>
    <!--   vim -->
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" alt="Vim editor" height="30" width="50" margin="10"/> </a>
+  <!-- <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" alt="Vim editor" height="30" width="50" margin="10"/> </a> -->
   <!--   npm -->
   <!-- <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" alt="npm" wheight="30" width="50" margin="10""/> </a> -->
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadolphe007&show_icons=true&locale=en&layout=compact" alt="iadolphe007" margin="10"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iadolphe007&show_icons=true&locale=en" alt="iadolphe007" margin="10" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iadolphe007&" alt="iadolphe007" margin="10"/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadolphe007&show_icons=true&locale=en&layout=compact" alt="iadolphe007" margin="10"/></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iadolphe007&show_icons=true&locale=en" alt="iadolphe007" margin="10" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iadolphe007&" alt="iadolphe007" margin="10"/></p> -->
 
 
 
