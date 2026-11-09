@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="banner">
+<img src="https://plus.unsplash.com/premium_photo-1681487767138-ddf2d67b35c1?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="banner">
 <h1 align="center">Hi There👋</h1>
 <h3 align="center">I'm Adolphe Imanishimwe, a Data Analytics enthusiast with a foundation in Software Development. I'm passionate about working with data, learning new technologies, and turning data into meaningful insights. 🚀</h3>
 <h3 align="left"> </h3>
@@ -53,7 +53,7 @@
   <!--   nodejs -->
   <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30" width="50" margin="10"/> </a> -->
    <!--   flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="30" width="50" margin="10"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" height="30" width="50" margin="10"/> </a>
   <!--   nginx -->
   <!-- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="30" width="50" margin="10"/> </a> -->
 </p>
