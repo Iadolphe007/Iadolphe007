@@ -11,11 +11,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--   twitter -->
-<a href="https://twitter.com/adolphetz" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_x_icon_256077.png" alt="adolphetz" height="40" width="80" /></a>
+<a href="https://twitter.com/adolphetz" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_x_icon_256077.png" alt="adolphetz" height="40" width="50" /></a>
 <!--   linkedin -->
-<a href="https://linkedin.com/in/www.linkedin.com/in/imanishimwe-adolphe-b14623250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imanishimwe-adolphe-b14623250" height="40" width="80" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/imanishimwe-adolphe-b14623250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imanishimwe-adolphe-b14623250" height="40" width="50" /></a>
 <!--   intagram -->
-<a href="https://instagram.com/https://www.instagram.com/adolph_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adolph_07/" height="40" width="80" /></a>
+<a href="https://instagram.com/https://www.instagram.com/adolph_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adolph_07/" height="40" width="50" /></a>
 
 <h2 align="left">Tech Stack:</h2>
 <h3 align="left">Programming Languages:</h3>
