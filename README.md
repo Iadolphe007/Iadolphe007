@@ -1,4 +1,4 @@
-<img src="https://plus.unsplash.com/premium_photo-1681487767138-ddf2d67b35c1?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="banner" width="100%" height="200">
+<img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="banner" width="100%" height="300">
 <h1 align="center">Hi There👋</h1>
 <h3 align="center">I'm Adolphe Imanishimwe, a Data Analytics enthusiast with a foundation in Software Development. I'm passionate about working with data, learning new technologies, and turning data into meaningful insights. 🚀</h3>
 <h3 align="left"> </h3>
